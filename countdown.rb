@@ -2,5 +2,5 @@
 
 def countdown(n)
   x = 0
-  while 
+  while x < n
 end
