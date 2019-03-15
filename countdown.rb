@@ -5,3 +5,5 @@ def countdown(n)
   while x < n
   puts "#{n} SECOND(S)!"
 end
+return "happy new year!".upcase
+end
