@@ -10,5 +10,5 @@ return "happy new year!".upcase
 end
 
 def countdown_with_sleep(n)
-  
+  sleep(n)
 end
