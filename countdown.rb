@@ -4,7 +4,7 @@ def countdown(n)
   x = 0
   while x < n
   puts "#{n} SECOND(S)!"
-  n-=
+  n-=1
 end
 return "happy new year!".upcase
 end
